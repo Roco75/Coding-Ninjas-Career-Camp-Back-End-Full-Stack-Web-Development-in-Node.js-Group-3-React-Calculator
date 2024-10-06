@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Coding-Ninjas-Career-Camp-Back-End-Full-Stack-Web-Development-in-Node.js-Group-3-React-Calculator/static/css/main.22ccaade.css",
+    "main.js": "/Coding-Ninjas-Career-Camp-Back-End-Full-Stack-Web-Development-in-Node.js-Group-3-React-Calculator/static/js/main.64a1e022.js",
+    "static/js/453.ad6eb26e.chunk.js": "/Coding-Ninjas-Career-Camp-Back-End-Full-Stack-Web-Development-in-Node.js-Group-3-React-Calculator/static/js/453.ad6eb26e.chunk.js",
+    "index.html": "/Coding-Ninjas-Career-Camp-Back-End-Full-Stack-Web-Development-in-Node.js-Group-3-React-Calculator/index.html",
+    "main.22ccaade.css.map": "/Coding-Ninjas-Career-Camp-Back-End-Full-Stack-Web-Development-in-Node.js-Group-3-React-Calculator/static/css/main.22ccaade.css.map",
+    "main.64a1e022.js.map": "/Coding-Ninjas-Career-Camp-Back-End-Full-Stack-Web-Development-in-Node.js-Group-3-React-Calculator/static/js/main.64a1e022.js.map",
+    "453.ad6eb26e.chunk.js.map": "/Coding-Ninjas-Career-Camp-Back-End-Full-Stack-Web-Development-in-Node.js-Group-3-React-Calculator/static/js/453.ad6eb26e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22ccaade.css",
+    "static/js/main.64a1e022.js"
+  ]
+}
